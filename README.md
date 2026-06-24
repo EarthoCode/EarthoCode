@@ -1,5 +1,13 @@
-## Hi there 👋
 
+## GitHub, it's time to immediately cancel your contract with ICE. 👋'
+
+
+### Mario "Neo" Sieg
+
+I’m not satisfied using things I don’t fully understand - so I build them myself.<br>
+From machine learning frameworks and quantization libraries to game engines and audiovisual art.
+
+What I cannot create, I do not understand. -Richard Feynman
 <!--
 **EarthoCode/EarthoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
